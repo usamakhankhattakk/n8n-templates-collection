@@ -18,11 +18,7 @@ All automation templates in this repository were found online and are uploaded h
 
 ---
 
-☕ Before diving into the long list of categories and templates, grab your coffee-and if you enjoy my work, don’t forget to buy me a coffee! 
 
-<a href="https://buymeacoffee.com/enescingoz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
---- 
 
 ## Categories & Template List
 
@@ -332,12 +328,4 @@ If you would like to contribute additional templates or suggest new categories, 
 
 ---
 
-👉 [Join n8n and start automating now! 💎](https://n8n.partnerlinks.io/h1pwwf5m4toe)
-<a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-  <img src="/img/n8n.png" alt="n8n" style="max-height: 300px;">
-</a>
 
----
-
-### **Sponsors**
-- [mahezsh](https://github.com/mahezsh)
