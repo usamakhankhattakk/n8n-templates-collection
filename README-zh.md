@@ -3,7 +3,7 @@
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![中文文档](https://img.shields.io/badge/中文文档-点击查看-orange)](README-zh.md)
 
-本仓库包含从互联网收集的n8n自动化模板集合。这些模板旨在帮助使用[n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe)自动化各种任务和工作流程，使用户更容易发现和使用各种平台和服务的现成自动化方案。
+本仓库包含从互联网收集的n8n自动化模板集合。这些模板旨在帮助使用[n8n](https://n8n.io/)自动化各种任务和工作流程，使用户更容易发现和使用各种平台和服务的现成自动化方案。
 
 
 
@@ -23,7 +23,7 @@
 🤖 想要自动翻译、重写和重新发布Twitter (X)线程吗？
 
 想要轻松地将整个Twitter (X)线程转换并以多种语言发布吗？  
-查看我的[n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Twitter线程（洪水）翻译器和发布工作流程——它在一个无缝过程中自动化提取、翻译、重写和发布。  
+查看我的[n8n](https://n8n.io/) Twitter线程（洪水）翻译器和发布工作流程——它在一个无缝过程中自动化提取、翻译、重写和发布。  
 非常适合创作者、营销人员和任何希望以最少的努力和超低成本接触新受众的人！
 
 👉 [在此尝试工作流程](https://n8n.io/workflows/4233-translate-and-repost-twitter-threads-in-multiple-languages-with-openai/)
