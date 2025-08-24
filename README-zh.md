@@ -5,10 +5,6 @@
 
 本仓库包含从互联网收集的n8n自动化模板集合。这些模板旨在帮助使用[n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe)自动化各种任务和工作流程，使用户更容易发现和使用各种平台和服务的现成自动化方案。
 
-👉 [加入n8n，立即开始自动化！💎](https://n8n.partnerlinks.io/h1pwwf5m4toe)
-<a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-  <img src="/img/n8n.png" alt="n8n" style="max-height: 300px;">
-</a>
 
 
 ---
@@ -18,11 +14,7 @@
 
 ---
 
-☕ 在深入了解长长的类别和模板列表之前，先来杯咖啡吧——如果您喜欢我的工作，别忘了给我买杯咖啡！
 
-<a href="https://buymeacoffee.com/enescingoz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
---- 
 
 ## 类别和模板列表
 
@@ -333,12 +325,3 @@
 
 ---
 
-👉 [加入n8n，立即开始自动化！💎](https://n8n.partnerlinks.io/h1pwwf5m4toe)
-<a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-  <img src="/img/n8n.png" alt="n8n" style="max-height: 300px;">
-</a>
-
----
-
-### **赞助商**
-- [mahezsh](https://github.com/mahezsh)
